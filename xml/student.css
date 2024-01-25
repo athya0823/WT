@@ -1,0 +1,26 @@
+books { 
+	color: white; 
+	background-color : rgb(190, 84, 107); 
+	width: 100%; 
+    /* align-items: center; */
+    text-align:center; 
+    /* margin: 50px; */
+    /* padding: 50px;     */
+} 
+heading { 
+	color: green; 
+	font-size : 40px; 
+	background-color : rgb(149, 223, 233); 
+    /* align-items: center; */
+    /* margin: 50px; */
+    text-align:center; 
+} 
+heading, title, author, publisher, edition, price { 
+	display : block; 
+    
+} 
+title { 
+	font-size : 25px; 
+	font-weight : bold;
+    margin: 10px;
+} 
